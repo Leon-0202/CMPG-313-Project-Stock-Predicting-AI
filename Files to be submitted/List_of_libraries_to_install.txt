@@ -1,0 +1,38 @@
+Please ensure that you have the following libraries installed:
+
+1. pandas: Install using pip by running the command: 
+pip install pandas 
+in your command prompt or terminal.
+
+2. scikit-learn: Install using pip by running the command: 
+pip install scikit-learn 
+in your command prompt or terminal.
+
+3. tensorflow: Install using pip by running the command: 
+pip install tensorflow 
+in your command prompt or terminal.
+
+4. keras: Install using pip by running the command:
+pip install keras 
+in your command prompt or terminal.
+
+5. joblib: Install using pip by running the command:
+pip install joblib 
+in your command prompt or terminal.
+
+6. matplotlib: Install using pip by running the command:
+pip install matplotlib 
+in your command prompt or terminal.
+
+7. yfinance: Install using pip by running the command:
+pip install yfinance 
+in your command prompt or terminal. 
+Please note that you need to be online to use the program to download data from yfinance.
+
+8. tkcalendar: Install using pip by running the command:
+pip install tkcalendar 
+in your command prompt or terminal.
+
+*Please note that while we have included the most common libraries, 
+this list may not be all-inclusive 
+as it depends on the libraries the user may or may not already have installed on their computer*
